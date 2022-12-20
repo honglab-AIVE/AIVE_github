@@ -36,7 +36,7 @@ Displays the citation, license, and browser compatibility of programs (http://ai
 ##### tutorial: 
 Provides tutorial of AIVE (http://ai-ve.org/aive_tutorial)
 ##### Template program: 
-Provide a prominent link to the template program (https://github.com/honglab-AIVE/AIVE)
+Provide a prominent link to the template program (https://github.com/honglab-AIVE/AIVE_github)
 
 #### Required library
 django
